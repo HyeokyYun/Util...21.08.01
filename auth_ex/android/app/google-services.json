@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842931990526",
+    "project_id": "authenticationex-f9d67",
+    "storage_bucket": "authenticationex-f9d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842931990526:android:9abc248046b1293a58daaf",
+        "android_client_info": {
+          "package_name": "com.example.auth_ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842931990526-7muggaht9m8kervsjs5nq7dltb4pv2k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOuX6daxsarwZ8LxAstkmtIWPgJR27hzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842931990526-7muggaht9m8kervsjs5nq7dltb4pv2k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
